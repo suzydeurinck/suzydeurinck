@@ -1,5 +1,5 @@
-# Hi there 👋☕
-- 🔭 I’m currently switching from the horse world 🐴 to a new career in Data & AI 🖥
-- 👩🏽‍🎓 I'm a student in the Microsoft Azure Certified Data & AI track of Techionista Academy
-- 🌱 Learning about: Analyzing and modelling data in Power BI and SQL
-- 📫 Find me on [LinkedIn](https://www.linkedin.com/in/suzydeurinck/)
+# 👩🏽‍💻 Data Engineer | Microsoft Certified | Lifelong Learner
+- 🎓 Graduated from Techionista Academy's Microsoft Azure Certified Data & AI program 🚀
+- 🌱 Continuously learning and passionate about: Data Engineering | Python | SQL
+- 💼 Actively seeking opportunities to apply my skills and make a sustainable impact on the world 🌍
+- 📫 Let's connect on LinkedIn: [LinkedIn](https://www.linkedin.com/in/suzydeurinck/)
